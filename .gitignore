@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# 大数据文件（原始数据较大时可选；本项目为演示数据，建议保留入库）
+# data/raw/*.csv

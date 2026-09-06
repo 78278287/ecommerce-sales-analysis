@@ -1,0 +1,6 @@
+pandas>=1.5
+numpy>=1.23
+openpyxl>=3.1
+matplotlib>=3.6
+SQLAlchemy>=1.4
+PyMySQL>=1.0
