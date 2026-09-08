@@ -1,6 +1,6 @@
 # 电商销售数据分析（E-commerce Sales Data Analysis）
 
-一个端到端的电商数据分析项目，覆盖 **数据生成 → 数据清洗(EDA) → 数据建模 → SQL 分析 → Python 分析 → Excel 报表 → Power BI 可视化** 全流程，可作为数据分析师岗位的简历项目。
+一个端到端的电商数据分析项目，覆盖 **数据生成 → 数据清洗(EDA) → 数据建模 → SQL 分析 → Python 分析 → Excel 报表 → Power BI 可视化** 全流程。
 
 ## 技术栈
 
